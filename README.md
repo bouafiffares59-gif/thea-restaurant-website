@@ -1,6 +1,6 @@
 # Thea Restaurant Website
 
-![Thea restaurant website visual](assets/thea-restaurant.svg)
+![Actual Thea project hero interior media](assets/actual/thea-hero-interior.jpg)
 
 A premium restaurant website case study focused on hospitality positioning, visual hierarchy, menu confidence, reservation intent, and responsive frontend execution.
 
@@ -33,6 +33,15 @@ This public repo is a recruiter-facing case study. The private prototype/source 
 ## Public Boundary
 
 This is presented as a concept/prototype case study. Live venue links, contact routing, QA captures, logs, tunnels, and implementation source are not published.
+
+## Actual Project Media
+
+These files are pulled from the actual Thea website project asset folder:
+
+- [Hero interior](assets/actual/thea-hero-interior.jpg)
+- [Interior square](assets/actual/thea-interior-square.jpg)
+- [Drink cinematic](assets/actual/thea-drink-cinematic.jpg)
+- [Steak fries premium](assets/actual/thea-steak-fries-premium.jpeg)
 
 ## Read More
 
